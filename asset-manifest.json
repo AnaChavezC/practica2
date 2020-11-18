@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/practica1/static/css/main.f54d147a.chunk.css",
-    "main.js": "/practica1/static/js/main.5eb24fae.chunk.js",
-    "main.js.map": "/practica1/static/js/main.5eb24fae.chunk.js.map",
-    "runtime-main.js": "/practica1/static/js/runtime-main.90ffadf0.js",
-    "runtime-main.js.map": "/practica1/static/js/runtime-main.90ffadf0.js.map",
-    "static/css/2.267ffeee.chunk.css": "/practica1/static/css/2.267ffeee.chunk.css",
-    "static/js/2.309f42a5.chunk.js": "/practica1/static/js/2.309f42a5.chunk.js",
-    "static/js/2.309f42a5.chunk.js.map": "/practica1/static/js/2.309f42a5.chunk.js.map",
-    "static/js/3.b509da64.chunk.js": "/practica1/static/js/3.b509da64.chunk.js",
-    "static/js/3.b509da64.chunk.js.map": "/practica1/static/js/3.b509da64.chunk.js.map",
-    "index.html": "/practica1/index.html",
-    "static/css/2.267ffeee.chunk.css.map": "/practica1/static/css/2.267ffeee.chunk.css.map",
-    "static/css/main.f54d147a.chunk.css.map": "/practica1/static/css/main.f54d147a.chunk.css.map",
-    "static/js/2.309f42a5.chunk.js.LICENSE.txt": "/practica1/static/js/2.309f42a5.chunk.js.LICENSE.txt"
+    "main.css": "/practica2/static/css/main.f54d147a.chunk.css",
+    "main.js": "/practica2/static/js/main.5eb24fae.chunk.js",
+    "main.js.map": "/practica2/static/js/main.5eb24fae.chunk.js.map",
+    "runtime-main.js": "/practica2/static/js/runtime-main.fc80f749.js",
+    "runtime-main.js.map": "/practica2/static/js/runtime-main.fc80f749.js.map",
+    "static/css/2.267ffeee.chunk.css": "/practica2/static/css/2.267ffeee.chunk.css",
+    "static/js/2.7bb9c3c0.chunk.js": "/practica2/static/js/2.7bb9c3c0.chunk.js",
+    "static/js/2.7bb9c3c0.chunk.js.map": "/practica2/static/js/2.7bb9c3c0.chunk.js.map",
+    "static/js/3.b509da64.chunk.js": "/practica2/static/js/3.b509da64.chunk.js",
+    "static/js/3.b509da64.chunk.js.map": "/practica2/static/js/3.b509da64.chunk.js.map",
+    "index.html": "/practica2/index.html",
+    "static/css/2.267ffeee.chunk.css.map": "/practica2/static/css/2.267ffeee.chunk.css.map",
+    "static/css/main.f54d147a.chunk.css.map": "/practica2/static/css/main.f54d147a.chunk.css.map",
+    "static/js/2.7bb9c3c0.chunk.js.LICENSE.txt": "/practica2/static/js/2.7bb9c3c0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.90ffadf0.js",
+    "static/js/runtime-main.fc80f749.js",
     "static/css/2.267ffeee.chunk.css",
-    "static/js/2.309f42a5.chunk.js",
+    "static/js/2.7bb9c3c0.chunk.js",
     "static/css/main.f54d147a.chunk.css",
     "static/js/main.5eb24fae.chunk.js"
   ]
